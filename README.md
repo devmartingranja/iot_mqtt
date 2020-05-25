@@ -8,6 +8,8 @@ Ejemplo de implementación del protocolo MQTT para el IOT
 
  ### INSTALACIÓN
 
+ - Clonar el repositorio
+
  - Para ejecutar el programa primero hay que importar los módulos correspondientes a través de los siguientes comandos 
 
  `$ npm install ó npm i`
