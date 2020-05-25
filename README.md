@@ -12,7 +12,7 @@ Ejemplo de implementación del protocolo MQTT para el IOT
 
  - Para ejecutar el programa primero hay que importar los módulos correspondientes a través de los siguientes comandos 
 
- `$ npm install ó npm i`
+ `$ npm install` ó `$ npm i`
 
  - para correr el broker ejecuta
 
