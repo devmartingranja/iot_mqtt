@@ -1,4 +1,4 @@
-### PROYECTO APLICANDO MQTT AL IOT
+### PROYECTO APLICANDO MQTT PARA EL IOT
 
 Ejemplo de implementación del protocolo MQTT para el IOT
 
